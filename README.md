@@ -189,3 +189,5 @@ CREATE TABLE Notificaciones (
 );
 ```
 [Ver Trello](https://trello.com/b/7eZDcz8A/proyecto-analisis)
+[Ver Reglamento IEEE830](https://docs.google.com/document/d/15UUBhE-kzrSD0RRdcuSRZlpuoPIWoMOP99_JuP4CQl4/edit?usp=sharing)
+
