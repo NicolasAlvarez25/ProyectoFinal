@@ -188,4 +188,4 @@ CREATE TABLE Notificaciones (
     FOREIGN KEY (cliente_id) REFERENCES Clientes(cliente_id)
 );
 ```
-[ver](https://trello.com/b/7eZDcz8A/proyecto-analisis)
+[Ver Trello](https://trello.com/b/7eZDcz8A/proyecto-analisis)
