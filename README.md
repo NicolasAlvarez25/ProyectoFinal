@@ -1,5 +1,5 @@
 # Gestión de Gimnasio
-Necesidad 
+Necesidad: 
 Implementar un sistema para gestionar de forma eficiente las membresías de los clientes, incluyendo la creación de diferentes planes de pago, la renovación automática de membresías, el control de morosidad y la generación de informes sobre la base de datos de clientes.
 
 ## Requerimientos Funcionales
