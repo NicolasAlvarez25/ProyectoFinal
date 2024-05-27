@@ -186,6 +186,7 @@ CREATE TABLE Notificaciones (
     mensaje TEXT NOT NULL,
     fecha_envio DATE NOT NULL,
     FOREIGN KEY (cliente_id) REFERENCES Clientes(cliente_id)
+<<<<<<< HEAD
 ); 
 ```
 [Ver Trello](https://trello.com/b/7eZDcz8A/proyecto-analisis)
