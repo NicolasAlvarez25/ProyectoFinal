@@ -186,5 +186,7 @@ CREATE TABLE Notificaciones (
     mensaje TEXT NOT NULL,
     fecha_envio DATE NOT NULL,
     FOREIGN KEY (cliente_id) REFERENCES Clientes(cliente_id)
-);
-[ver](https://trello.com/b/7eZDcz8A/proyecto-analisis)
+); 
+```
+[Ver Trello](https://trello.com/b/7eZDcz8A/proyecto-analisis)
+[Ver Reglamento IEEE830](https://docs.google.com/document/d/15UUBhE-kzrSD0RRdcuSRZlpuoPIWoMOP99_JuP4CQl4/edit?usp=sharing)
