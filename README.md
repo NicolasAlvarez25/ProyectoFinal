@@ -67,8 +67,6 @@ El sistema debe estar disponible las 24 horas del día, los 7 días de la semana
 
 
 
-### Tabla: Pagos
-Aquí tienes una tabla de pagos con datos aleatorios:
 
 ### Tabla: Pagos
 | pago_id | factura_id | fecha_pago | monto_pagado  |metodo_pago                     |
